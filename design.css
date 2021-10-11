@@ -1,0 +1,419 @@
+.head h1{
+    text-align: center;
+    color: blueviolet;
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.head h2{
+    text-align: center;
+    color: cyan;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 55px;
+    font-size: 30px;
+}
+.head button{
+    background-color: lightseagreen;
+    margin-left: 25px;
+    margin-top: 145px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.head p{
+    color: black;
+    text-align: left;
+    font-size: 28px;
+    margin-top: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.head nav a{
+    text-decoration: darkseagreen;
+    margin-left: 30px;
+    color: firebrick;
+}
+.head nav{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    margin-top: 60px;
+
+}
+.head{
+    background-image: url("back01.jpg");
+    width: 1510px;
+    height:870px;
+    background-repeat: no-repeat;
+
+}
+/*greeting */
+.greeting
+{
+    background-image: url(background.jpg);
+    background-size: 1500px 800px;
+    height:800px;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+
+}
+.greeting p{
+    font-size: 24px;
+    text-align: left;
+    color:burlywood;
+    margin-top: 99px;
+    margin-left: 49px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.greeting h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 33px;
+    margin: 20px;
+    color: cornflowerblue;
+}
+.t button{
+    margin-top: 20px;
+    border:none;
+    padding: 10px 13px;
+    background-color: lightseagreen;
+}
+.greeting img{
+    height: 100px;
+    width:100px;
+    border: radius 49%;
+}
+.greeting table{
+    border-collapse: separate;
+    border-spacing: 68px 10px;
+    width:700px;
+    color: darkkhaki;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    margin-top: 160px;
+    margin-left:400px;
+    text-align: center;
+}
+/*outcome*/
+
+.outcome{
+    margin-top: 50px;
+    background-repeat: no-repeat;
+    background-color: lightgray;
+    height: 700px;
+}
+.outcome button{
+    margin-top: 20px;
+    padding: 10px 13px;
+    border:none;
+    background-color: lightseagreen;
+}
+.outcome img{
+    height: 250px;
+    width:180px;
+    border-radius:10px;
+}
+.outcome h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    text-align: center;
+
+}
+.outcome table{
+    border-collapse: separate;
+    border-spacing: 155px 10px;
+    background-color: blanchedalmond;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 60px;
+    text-align: center;
+    width:1450px;
+}
+
+/*slick plan*/
+
+.slickplan
+{
+    margin-top: 10px;
+    background-color: lightsalmon;
+    height: 350px;
+    background-repeat: no-repeat;
+}
+.slickplan button{
+    margin-top: 20px;
+    border: none;
+    padding: 10px 30px;
+}
+.slickplan h2
+{
+    font-family: monospace;
+    font-size: 35px;
+    text-align: left;
+
+}
+.slickplan table{
+    border-collapse: separate;
+    border-spacing: 155px 10px;
+    width:1450px;
+    margin-top: 60px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.slickplan h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border:none;
+    text-align: center;
+}
+/*video clips*/
+
+.videoclips{
+    margin-top: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url("back1.jpg");
+    background-size: 1500px 800px;
+    height: 600px;
+  }
+  .videoclips h2{
+    text-align:center;
+    color:lightgray;
+    font-size: 30px;
+  }
+  .videoclips video{
+    align-items: center;
+    height: 500px;
+    width: 450px;
+    margin-top: 5px;
+    margin-left: 40px;
+    border-radius: 15px;
+    background-color:lightyellow;
+    margin-top: 30px;
+  }
+
+
+  .members
+{
+    background-image: url(chairback.jpg);
+    background-size: 1500px 800px;
+    height:600px;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+
+}
+.members h2{
+    text-align: center;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 33px;
+    margin: 20px;
+    color:darkred;
+}
+.t button{
+    margin-top: 20px;
+    border:none;
+    background-color: lightseagreen;
+    padding: 10px 13px;
+}
+.members img{
+    height: 100px;
+    width:100px;
+    border: radius 49%;
+}
+.members table{
+    border-collapse: separate;
+    border-spacing: 68px 10px;
+    width:700px;
+    color:darkslateblue;
+    font-family:monospace;
+    font-size: 20px;
+    margin-top: 160px;
+    margin-left:400px;
+    text-align: center;
+}
+.members p{
+    font-size: 24px;
+    text-align: left;
+    color:deepskyblue;
+    margin-top: 99px;
+    margin-left: 49px;
+    font-family:sans-serif;
+
+}
+/*quote*/
+.quote{
+    background-image: url(high.jpg);
+    background-size: 1500px 800px;
+    height:600px;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+}
+.quote img{
+    margin-top: 30px;
+    border: radius 10%;
+}
+.quote h1{
+    text-align: center;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font: size 100px;;
+    margin: 20px;
+    color:tomato;
+}
+
+.report{
+    background-image: url(news.jpg);
+    background-size: 1500px 800px;
+    height:550px;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+}
+.report img{
+    margin-top: 30px;
+    border: radius 10%;
+}
+.report h1{
+    text-align:left;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    margin: 20px;
+    color:lightgray;
+}
+.report li{
+    font-size: 25px;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+.blog{
+    
+    background-image: url(back4.jpg);
+    background-size: 1500px 800px;
+    height:600px;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+
+}
+.blog button{
+    margin-top: 20px;
+    padding: 10px 13px;
+    border:none;
+    background-color: lightseagreen;
+}
+.blog img{
+    height: 250px;
+    width:180px;
+    border-radius:10px;
+}
+.blog h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    text-align: center;
+
+}
+.blog table{
+    border-collapse: separate;
+    border-spacing: 155px 10px;
+    font-size: 20px;
+    font-family:inherit;
+    margin-top: 60px;
+    text-align: center;
+    width:1450px;
+}
+
+.contactus{
+    max-width: 800px;
+    height: 600px;
+    background:yellowgreen;
+    margin: 50px auto;
+    box-shadow: 0 0 20px rgba(72,98,85, 0.6);
+    box-sizing: border-box;
+    padding: 40px;
+  }
+  
+  p{
+    text-align: center;
+    letter-spacing: 1px;  
+    font-size: 45px;
+    margin-bottom: 20px;
+    color: #486255;
+  }
+  
+  .input,
+  .msg .area{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 25px;
+    border: 2px solid #e9eaea;
+    font-size: 14px;
+    border-radius: 5px;
+    outline: none;
+    transform: all 0.5s ease;
+  }
+  
+  .login .input{
+    width: 48%;
+    float: left;
+    margin-right: 4%;
+  }
+  
+  .login .input:last-child{
+    margin-right: 0;
+  }
+  
+  .msg .area{
+    height: 200px;
+  }
+  
+  .btn{
+    width: 250px;
+    background: #485f62;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 auto;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  
+  .input:focus,
+  .msg .area:focus{
+    border: 2px solid #486255;
+  }
+  
+  ::-webkit-input-placeholder{
+    font-family: 'roboto';
+  }
+  footer{
+    background:#f63232;
+    color:white;
+    padding:10px;
+    text-align:center;
+}
+
+.foot{
+    text-align:center;
+    margin-top: 50px;
+    height: 200px;
+    color: aliceblue;
+  }
+  .foot table{
+    border-collapse:separate;
+    border-spacing: 155px 40px;
+    width: 1400px;
+    margin-top: 30px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin-left: 60px;
+  }
+  .foot a{
+    width: 50px;
+    height: 40px;
+    background-color:blue;
+    border-radius: 50%;
+    color: black;
+  }
+  body{
+      background-color: blanchedalmond;
+  }
